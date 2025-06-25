@@ -25,6 +25,9 @@ Uses MediaPipe’s Face Mesh model to detect facial features, focusing on the ey
 
  # Gaze Estimation:
   Analyzes eye shape and iris location to infer gaze direction (left, right, up, down).
+  ![image](https://github.com/user-attachments/assets/ddd9cda3-4e86-46d8-a598-48e5e36b0d25)
+![image](https://github.com/user-attachments/assets/ddd9cda3-4e86-46d8-a598-48e5e36b0d25)
+
 
 #  Cursor Mapping: 
 Translates gaze direction into corresponding screen coordinates.
